@@ -1,6 +1,6 @@
-local Willor = serv:Channel("Willor")
-Willorl:Label("Rivals")
-Willorl:Button(
+local Wilorr = serv:Channel("Wilorr")
+Wilorr:Label("Rivals")
+Wilorr:Button(
     "Tbao Hub",
     function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/main/TbaoHubRivals"))()
